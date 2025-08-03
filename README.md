@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="gifler/animasyon1.gif" width="30%" style="margin-right:10px;"/>
-  <img src="gifler/animasyon2.gif" width="30%" style="margin-right:10px;"/>
-  <img src="gifler/animasyon3.gif" width="30%"/>
+  <img src="https://github.com/kenantasdemir/flutterbasictiktok/blob/main/googlelogin.gif" width="30%" style="margin-right:10px;"/>
+  <img src="https://github.com/kenantasdemir/flutterbasictiktok/blob/main/facebooklogin.gif" width="30%" style="margin-right:10px;"/>
+  <img src="https://github.com/kenantasdemir/flutterbasictiktok/blob/main/demo.gif" width="30%" style="margin-right:10px;"/>
 </div>
