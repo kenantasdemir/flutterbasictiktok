@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664928552827",
+    "project_id": "basictiktokflutterrr",
+    "storage_bucket": "basictiktokflutterrr.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664928552827:android:c5e994e1ebf0521722dfde",
+        "android_client_info": {
+          "package_name": "com.kenant42.mytiktokcloneapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp94xfQOEh3qG2TYArM1MxEUg4LvVfYeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
